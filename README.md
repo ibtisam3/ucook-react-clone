@@ -15,3 +15,27 @@ This project replicates the design and user experience of the popular meal-kit d
 - **Vite**
 - **Bootstrap**
 - **CSS**
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/ibtisam3/ecommerce-react-store.git
+   ```
+
+2. **Navigate into the project folder:**
+
+```bash
+cd cd ecommerce-react-store
+```
+
+3. **Install dependencies:**
+```bash
+npm install
+```
+
+3. Run the project:
+```bash
+npm start
+```
+5. Open http://localhost:3000 in your browser.
