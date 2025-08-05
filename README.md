@@ -1,2 +1,18 @@
-#ucook clone
-This is a React.js project that recreates the UCOOK website, focusing on an accurate replication of its features and appearance.
+# UCook Clone 🍽️
+
+A responsive and modern **UCook website clone** built with **React.js** and **Vite**. This project replicates the design and user experience of the popular meal-kit delivery service, showcasing dynamic components, clean UI, and reusable code.
+
+---
+
+## 🚀 Features
+
+- ⚛️ Built with React and Vite
+- 📱 Fully responsive design
+- 🧩 Reusable components
+- 🌐 Routing with React Router
+- 🖼️ Image assets for realistic product display
+- 💡 Clean, maintainable code structure
+
+---
+
+
