@@ -34,8 +34,9 @@ cd ecommerce-react-store
 npm install
 ```
 
-3. Run the project:
+4. Run the project:
 ```bash
 npm start
 ```
 5. Open http://localhost:3000 in your browser.
+
