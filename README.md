@@ -26,7 +26,7 @@ git clone https://github.com/ibtisam3/ecommerce-react-store.git
 2. **Navigate into the project folder:**
 
 ```bash
-cd cd ecommerce-react-store
+cd ecommerce-react-store
 ```
 
 3. **Install dependencies:**
