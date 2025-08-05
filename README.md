@@ -9,4 +9,9 @@ This project replicates the design and user experience of the popular meal-kit d
 
 ![UCook Homepage](src/assets/images/ucook-page.png)
 
+## 📦 Tech Stack
 
+- **React.js**
+- **Vite**
+- **Bootstrap**
+- **CSS**
